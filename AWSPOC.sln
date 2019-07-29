@@ -5,8 +5,7 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSPOC", "AWSPOC\AWSPOC.csproj", "{58BD6A19-9EBD-4490-8F27-9B050F8E08BF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSPOC.Tests", "AWSPOC.Tests\AWSPOC.Tests.csproj", "{D488900C-B8C9-449F-814B-B8DBEB1C237E}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
