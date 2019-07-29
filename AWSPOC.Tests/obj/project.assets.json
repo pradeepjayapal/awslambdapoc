@@ -13825,18 +13825,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pjayap102\\source\\repos\\AWSPOC\\AWSPOC.Tests\\AWSPOC.Tests.csproj",
+      "projectUniqueName": "C:\\AWSPOC\\AWSPOC\\AWSPOC.Tests\\AWSPOC.Tests.csproj",
       "projectName": "AWSPOC.Tests",
-      "projectPath": "C:\\Users\\pjayap102\\source\\repos\\AWSPOC\\AWSPOC.Tests\\AWSPOC.Tests.csproj",
+      "projectPath": "C:\\AWSPOC\\AWSPOC\\AWSPOC.Tests\\AWSPOC.Tests.csproj",
       "packagesPath": "C:\\Users\\pjayap102\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pjayap102\\source\\repos\\AWSPOC\\AWSPOC.Tests\\obj\\",
+      "outputPath": "C:\\AWSPOC\\AWSPOC\\AWSPOC.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pjayap102\\source\\repos\\NuGet.Config",
-        "C:\\Users\\pjayap102\\source\\NuGet.Config",
         "C:\\Users\\pjayap102\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -13845,15 +13843,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://tfsnug-wc-1s.cable.comcast.com/nuget": {},
         "http://tfsnuget.comcast.com/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\pjayap102\\source\\repos\\AWSPOC\\AWSPOC\\AWSPOC.csproj": {
-              "projectPath": "C:\\Users\\pjayap102\\source\\repos\\AWSPOC\\AWSPOC\\AWSPOC.csproj"
+            "C:\\AWSPOC\\AWSPOC\\AWSPOC\\AWSPOC.csproj": {
+              "projectPath": "C:\\AWSPOC\\AWSPOC\\AWSPOC\\AWSPOC.csproj"
             }
           }
         }
