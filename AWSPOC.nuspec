@@ -14,6 +14,6 @@
     <tags></tags>
   </metadata>
   <files>
-    <file src="..\bin\Release\app.publish\*.*" target=""/>
+    <file src="\478a48c7bd7bbfe9\AWSPOC\bin\Release\app.publish\*.*" target=""/>
   </files>
 </package>
