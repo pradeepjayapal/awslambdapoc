@@ -1,0 +1,14 @@
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\bin\Debug\netcoreapp2.1\AWSPOC.deps.json
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\bin\Debug\netcoreapp2.1\AWSPOC.runtimeconfig.json
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\bin\Debug\netcoreapp2.1\AWSPOC.runtimeconfig.dev.json
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\bin\Debug\netcoreapp2.1\AWSPOC.dll
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\bin\Debug\netcoreapp2.1\AWSPOC.pdb
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.csprojAssemblyReference.cache
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.csproj.CoreCompileInputs.cache
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.RazorAssemblyInfo.cache
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.RazorAssemblyInfo.cs
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.AssemblyInfoInputs.cache
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.AssemblyInfo.cs
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.RazorTargetAssemblyInfo.cache
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.dll
+C:\Users\pjayap102\source\repos\AWSPOC\AWSPOC\obj\Debug\netcoreapp2.1\AWSPOC.pdb
