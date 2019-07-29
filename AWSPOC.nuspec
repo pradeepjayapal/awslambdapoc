@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AWSPOC</id>
+    <version>1.0.0.0</version>
+    <title>AWSPOC</title>
+    <authors>AWSPOC</authors>
+    <owners>AWSPOC</owners>
+    <iconUrl>https://yt3.ggpht.com/-1-u2Fi_GGZo/AAAAAAAAAAI/AAAAAAAAAAA/tgWSOSvvzkI/s100-c-k-no/photo.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AWSPOC</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="\output\publish\**\*.*"/>
+  </files>
+</package>
